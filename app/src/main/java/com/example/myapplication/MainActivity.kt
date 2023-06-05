@@ -15,16 +15,7 @@ import com.example.myapplication.ui.theme.MyApplicationTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.main_activity)
-        dflvndflkb
-        dffl;b
-        dfbl;m,dl;findViewById<
-                db;lmd;flbm
-        dfb
-        df['bd[bm,dfbd
+        setContentView(R.layout.main_activity_constraint)
 
-        db';df,bl;dfb
-
-        ''>()
     }
 }
